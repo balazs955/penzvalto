@@ -1,4 +1,4 @@
-function forint(){
+function forintszamol(){
     var ft = parseInt(document.getElementById("forint").value)
 
     document.write("Euróban: " + ft * 404)
